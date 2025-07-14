@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/xoxxel/dns-only-clash.svg?style=social)](https://github.com/xoxxel/dns-only-clash/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/xoxxel/dns-only-clash.svg?style=social)](https://github.com/xoxxel/dns-only-clash/network/members)
 
-This project provides a fully working `dns-only` configuration for [Clash](https://github.com/Dreamacro/clash), including:
+This project provides a fully working `dns-only` configuration for [Clash](https://www.clashforwindows.net), including:
 
 * DNS-over-HTTPS support
 * TUN (transparent proxy) mode
@@ -28,7 +28,7 @@ This project provides a fully working `dns-only` configuration for [Clash](https
 
 Choose one of the following:
 
-* [Clash for Windows (official)](https://github.com/Fndroid/clash_for_windows_pkg)
+* [Clash for Windows (official)](https://www.clashforwindows.net) --- Recommended 
 * [Clash Verge (GUI + TUN support)](https://github.com/clash-verge-rev/clash-verge-rev)
 * [Clash Meta (CLI)](https://github.com/MetaCubeX/mihomo)
 
